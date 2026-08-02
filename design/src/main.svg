@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="705.69257"
-     inkscape:cy="721.24892"
+     inkscape:zoom="0.25"
+     inkscape:cx="756"
+     inkscape:cy="1244"
      inkscape:window-width="1440"
      inkscape:window-height="830"
      inkscape:window-x="1913"
@@ -1333,7 +1333,10 @@
                id="g30"><g
                  id="g23" /></g></g></g></g></g><g
        id="g43"
-       transform="translate(-3.0967361,10.054167)"><g
+       transform="translate(191.6366,53.445834)"
+       inkscape:export-filename="..\..\assets\miscellaneous\eight2five-wide-light.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><g
          id="g16"
          transform="translate(-28.32399,-15.300079)"><g
            id="g15"><g
@@ -1651,7 +1654,7 @@
                  id="g57" /></g></g></g></g></g><g
        id="g98"
        transform="translate(53.097526,-2.3510575)"
-       inkscape:export-filename="..\..\assets\app-icons\mobile\g98.png"
+       inkscape:export-filename="..\..\assets\miscellaneous\eight2five-rounded-light.png"
        inkscape:export-xdpi="520.19147"
        inkscape:export-ydpi="520.19147"><g
          id="g94"
@@ -1726,7 +1729,10 @@
              cy="173.75667"
              r="5" /></g></g></g><g
        id="g127"
-       transform="translate(-2.0384027,65.056793)"><g
+       transform="translate(-2.0384027,65.056793)"
+       inkscape:export-filename="..\..\assets\miscellaneous\wide-logo-black.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><g
          id="g124"
          transform="translate(-28.32399,-15.300079)"><g
            id="g123"><g
